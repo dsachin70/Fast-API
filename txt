@@ -1,0 +1,9 @@
+FAST API
+
+#----------------------
+amazon
+-- shous -- backend -- person
+--- node js
+--- Flask opython
+--- FAST API
+
